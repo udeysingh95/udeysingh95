@@ -1,24 +1,44 @@
+
 ## Hello, I'm Udey 👋
 
-Agile Coach by Profession, Engineer at Heart 🤖
+Agile Coach | Aspiring Data Scientist | Developer
 
 ### About Me
 
-With a strong foundation in engineering and years of experience in agile leadership, I specialize in driving impactful transformations within organizations. My expertise lies in bridging technical excellence with strategic alignment to foster high-performing teams and deliver measurable outcomes. Whether it’s introducing Objectives and Key Results (OKRs) or guiding teams through agile practices, I am passionate about helping organizations achieve their goals efficiently and effectively.
+With over 9 years of experience in Agile coaching and a solid foundation in software development, I specialize in driving impactful transformations within organizations. My expertise lies in bridging technical excellence with strategic alignment to foster high-performing teams and deliver measurable outcomes. Recently, my collaboration with a data team ignited a passion for data science, leading me to pursue formal education and hands-on projects in this field.
 
 🌍 Based in Berlin | 🌐 Working Globally
+
+### My Journey into Data Science
+
+Working closely with a data department for a year inspired me to delve into data science. Since the beginning of Q4 2025, I've:
+
+- Completed 3 data-driven projects focusing on real-world applications.
+- Gained proficiency in Python (NumPy, pandas, Matplotlib) and R (ggplot2).
+- Utilized tools like Looker Studio and dbt during my transformation work with the data team.
+- Reacquainted myself with SQL and web development skills from my developer days.
 
 ### What I Do
 
 - **Agile Coaching:** Facilitate agile transformations to enhance product delivery efficiency and empower teams across organizational layers.
-- **OKR Transformation:** Guide organizations in adopting and embedding OKRs, ensuring strategic alignment and measurable impact.
+- **Data Science Projects:** Apply data analysis and visualization techniques to derive insights and support decision-making.
 - **Program & Project Leadership:** Orchestrate complex, cross-functional initiatives with a focus on outcomes, collaboration, and delivery excellence.
-- **Technical Expertise:** Leverage an engineering background to align technical and business objectives, bridging the gap between innovation and execution.
+- **Technical Leadership:** Leverage an engineering background to align technical and business objectives, bridging the gap between innovation and execution.
 
-### :hammer_and_wrench: Tools
+### 🛠️ Tools & Technologies
 
-![Static Badge](https://img.shields.io/badge/-jira?style=flat&logo=jira&label=Jira&labelColor=0052CC&color=0052CC) ![Static Badge](https://img.shields.io/badge/-asana?style=flat&logo=asana&label=Asana&color=grey) ![Trello Badge](https://img.shields.io/badge/-trello?style=flat&logo=trello&label=Trello&labelColor=007AC0&color=007AC0) ![Static Badge](https://img.shields.io/badge/-miro?style=flat&logo=miro&logoColor=black&label=Miro&labelColor=F2CA02&color=F2CA02) ![Github Badge](https://img.shields.io/badge/-github?style=flat&logo=github&label=Github&labelColor=000000&color=000000) ![Git Badge](https://img.shields.io/badge/-github?style=flat&logo=git&label=Git&labelColor=000000&color=000000) ![Notion Badge](https://img.shields.io/badge/-notion?style=flat&logo=notion&logoColor=black&label=Notion&labelColor=ffffff&color=ffffff) ![OpenAI Badge](https://img.shields.io/badge/-chatgpt?style=flat&logo=openai&logoColor=white&label=ChatGPT&labelColor=00A67E&color=00A67E)
+![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R Badge](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Looker Badge](https://img.shields.io/badge/-Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![dbt Badge](https://img.shields.io/badge/-dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jira Badge](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![Notion Badge](https://img.shields.io/badge/-notion?style=flat&logo=notion&logoColor=black&label=Notion&labelColor=ffffff&color=ffffff)
+![Miro Badge](https://img.shields.io/badge/-miro?style=flat&logo=miro&logoColor=black&label=Miro&labelColor=F2CA02&color=F2CA02)
 
-### :handshake: Connect with Me
+### 🤝 Connect with Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-Udey%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/udeysingh/) [![Gmail Badge](https://img.shields.io/badge/-udeysingh95@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:udeysingh95@gmail.com)](mailto:udeysingh95@gmail.com) [![Medium Badge](https://img.shields.io/badge/-notion?style=flat&logo=medium&logoColor=black&label=%40udey&labelColor=ffffff&color=ffffff)](https://medium.com/@udey)
+[![LinkedIn Badge](https://img.shields.io/badge/-Udey%20Singh-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udeysingh/)
+[![Gmail Badge](https://img.shields.io/badge/-udeysingh95@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:udeysingh95@gmail.com)
+[![Medium Badge](https://img.shields.io/badge/-@udey-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@udey)
