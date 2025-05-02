@@ -1,7 +1,7 @@
 
 ## Hello, I'm Udey 👋
 
-Agile Coach | Aspiring Data Scientist | Developer
+Agile Coach | Product Manager | Aspiring Data Scientist | Developer
 
 ### About Me
 
